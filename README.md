@@ -1,1 +1,1 @@
-# studen-information-system
+# student-information-system
